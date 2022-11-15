@@ -5,5 +5,5 @@
 * Para saber mais acesse o link: <https://medium.com/reflexão-computacional/módulo-turtle-d8949db55008>
 
 <p align = "center">
-<img width = "460" heigth = "300" src = "\assets\ezgif.com-gif-maker.gif"> 
+<img width = "460" heigth = "300" src = "/assets/ezgif.com-gif-maker.gif"> 
 </p>
